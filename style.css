@@ -31,3 +31,8 @@ nav ul {
     width: 70%;
     margin: auto;
 }
+img {
+    position: relative;
+    top: 20px;    /* baja la imagen 20px */
+    left: 50px;   /* la mueve 50px a la derecha */
+}

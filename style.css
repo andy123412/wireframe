@@ -1,0 +1,21 @@
+*{
+font-family: Arial, Helvetica, sans-serif;
+}
+nav ul {
+display: flex;
+list-style: none;
+justify-content: space-around;
+width: 70%;
+}
+nav a{
+    text-decoration: tomato;
+    color: black;
+    font-size: 18px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+body{
+    color: antiquewhite;
+}
